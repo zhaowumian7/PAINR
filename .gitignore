@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+outputs/
+runs/
+logs/
+
+.venv/
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+.DS_Store
+AGENTS.md
